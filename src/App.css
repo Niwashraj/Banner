@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.content {
+  margin-top: 150px;
+}
